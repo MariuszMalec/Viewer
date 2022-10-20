@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DANE>
+  <machine>HM_HSTM_500_SIM840D</machine>
+  <outfile>C:\temp\inputdata.xml</outfile>
+  <catpart>C:\Clever\V300\BladeMill\data\RootEngDir\304T002287 (IMR-007505)\304T002287P1010_-.CATPart</catpart>
+  <xmlpart>C:\Clever\V300\BladeMill\data\RootEngDir\304T002287 (IMR-007505)\304T002287P1010_-_BMD.xml</xmlpart>
+  <xlspart>C:\Clever\V300\BladeMill\data\RootEngDir\304T002287 (IMR-007505)\304T002287P1010.xls</xlspart>
+  <catpartfirst></catpartfirst>
+  <catpartend></catpartend>
+  <xmlpartfirst></xmlpartfirst>
+  <xmlpartend></xmlpartend>
+  <Clampingmethod>GripPinWelding</Clampingmethod>
+  <pinwelding>False</pinwelding>
+  <millshroud>True</millshroud>
+  <readxls>True</readxls>
+  <runconfiguration>True</runconfiguration>
+  <runbm>True</runbm>
+  <runcmm>False</runcmm>
+  <createvcproject>True</createvcproject>
+  <selectlanguage>pol</selectlanguage>
+  <Prerawbox>False</Prerawbox>
+  <createraport>False</createraport>
+  <RootMfgDir>C:\Clever\V300\BladeMill\data\RootMfgDir</RootMfgDir>
+  <clickcancel>False</clickcancel>
+  <BMTemplate>False</BMTemplate>
+  <BMTemplateFile>C:\Clever\V300\BladeMill\data\RootMfgDir\55558\55558.cbm</BMTemplateFile>
+  <IsXML>True</IsXML>
+  <TypeBlade>RTBMovingBlade</TypeBlade>
+  <middleTol>False</middleTol>
+  <admin>False</admin>
+  <ClampFromTemplate>GripZabierak</ClampFromTemplate>
+  <FIG_N>brak</FIG_N>
+  <infile>B999999</infile>
+</DANE>
